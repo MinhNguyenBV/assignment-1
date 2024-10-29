@@ -1,0 +1,9 @@
+﻿  assign_refer.cpp
+C:\Users\hi\Desktop\Funix\C++\practice\asignment_refer\assign_refer\assign_refer\assign_refer.cpp(21,45): warning C4101: 'e': unreferenced local variable
+C:\Users\hi\Desktop\Funix\C++\practice\asignment_refer\assign_refer\assign_refer\assign_refer.cpp(41,45): warning C4101: 'e': unreferenced local variable
+  Generating code
+  25 of 93 functions (26.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  assign_refer.vcxproj -> C:\Users\hi\Desktop\Funix\C++\practice\asignment_refer\assign_refer\x64\Release\assign_refer.exe
